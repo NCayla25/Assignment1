@@ -2,7 +2,7 @@
 
 This assignment shows an understanding of how to use MongoDB to create a signup/login system. 
 
-It is hosted on render at https://comp2537assignment1ncayla.onrender.com
+It is hosted on render at https://assignment1-ywbo.onrender.com
 
 The cats on the members page are my cats:
 Cat with Yellow hat: Squidge
