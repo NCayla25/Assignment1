@@ -267,11 +267,6 @@ async function startServer() {
         `);
     });
 
-    app.get("/test-session", (req, res) => {
-        req.session.test = "working";
-        res.send("session set");
-    })
-
     app.listen(PORT, () => {
         console.log(`Server running on port ${PORT}`);
     });
